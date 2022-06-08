@@ -4,5 +4,4 @@
   "description": "Team Prettier config",
   "main": "index.json",
   "repository": "git@github.com:Standard-Care/prettier-config",
-  "author": "R S <hello@standardcare.us>"
 }
