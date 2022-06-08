@@ -3,5 +3,5 @@
   "version": "1.0.0",
   "description": "Team Prettier config",
   "main": "index.json",
-  "repository": "git@github.com:Standard-Care/prettier-config",
+  "repository": "git@github.com:Standard-Care/prettier-config"
 }
