@@ -18,7 +18,7 @@
     "prettier.requirePragma": false,
     "prettier.resolveGlobalModules": false,
     "prettier.semi": true,
-    "prettier.singleQuote": false,
+    "prettier.singleQuote": true,
     "prettier.tabWidth": 4,
     "prettier.trailingComma": "es5",
     "prettier.useEditorConfig": true,
