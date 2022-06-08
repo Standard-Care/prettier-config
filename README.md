@@ -7,7 +7,7 @@
 **Install**:
 
 ```bash
-$ npm install --include=dev https://github.com/Standard-Care/prettier-config
+$ npm install https://github.com/Standard-Care/prettier-config --save-dev
 ```
 
 **Edit `package.json`**:
