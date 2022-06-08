@@ -7,7 +7,7 @@
 **Install**:
 
 ```bash
-$ yarn add --dev @azz/prettier-config
+$ npm install --include=dev https://github.com/Standard-Care/prettier-config
 ```
 
 **Edit `package.json`**:
@@ -15,6 +15,6 @@ $ yarn add --dev @azz/prettier-config
 ```jsonc
 {
   // ...
-  "prettier": "@azz/prettier-config"
+  "prettier": "https://github.com/Standard-Care/prettier-config"
 }
 ```
